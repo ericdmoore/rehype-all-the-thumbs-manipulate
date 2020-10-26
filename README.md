@@ -1,6 +1,8 @@
 # rehype-all-the-thumbs-manipulate
 Supporting [`rehype-all-the-thumbs`](https://github.com/ericdmoore/rehype-all-the-thumbs) by adding the new thumbnails back to the DOM tree
 
+> rehype-👍🏿👍🏼👍🏽👍🏻👍🏾 (Change the input file to include the newly created assets)
+
 ## Overview
 
 _Configuration_:
